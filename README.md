@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Mwirigi 👋
 
-<!--
-**MwirigiCodes/MwirigiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer building applications that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with modern web technologies to create functional and user-friendly applications. My focus is on building clean, maintainable code and learning new technologies continuously.
+
+## 💻 Tech Stack
+
+- **Frontend:** JavaScript, CSS, HTML
+- **Backend:** JavaScript/Node.js
+- **Tools & Platforms:** Git, GitHub, APIs
+
+## 📂 Featured Projects
+
+- **[car-rental](https://github.com/MwirigiCodes/car-rental)** - A car rental application built with JavaScript
+- **[EPL-Predictions](https://github.com/MwirigiCodes/EPL-Predictions)** - English Premier League predictions project
+- **[notes-api](https://github.com/MwirigiCodes/notes-api)** - A RESTful API for managing notes
+- **[portfolio](https://github.com/MwirigiCodes/portfolio)** - My personal portfolio website
+- **[school-api](https://github.com/MwirigiCodes/school-api)** - School management system API
+
+## 🌱 Currently Learning
+
+Always exploring new technologies and best practices in full-stack development.
+
+## 🤝 Let's Connect
+
+- 📧 Feel free to reach out for collaborations or just to say hello!
+- 💬 Open to discussing ideas, code reviews, and tech topics
+
+---
+
+**Thanks for visiting! Check out my repositories to see what I'm working on.** 🙌

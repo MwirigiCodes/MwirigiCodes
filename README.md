@@ -73,16 +73,6 @@ A production-ready REST API for managing notes with enterprise-grade security an
 
 ---
 
-### [Car Rental Application](https://github.com/MwirigiCodes/car-rental)
-
-A full-stack web application for managing car rental services with a React frontend and Node.js backend.
-
-**Backend:** Designed and built the REST API for managing inventory, reservations, and user operations. Includes authentication, validation, image handling via Cloudinary, and MongoDB for data persistence.
-
-**Key technologies:** Node.js, Express.js, MongoDB, Mongoose, bcryptjs, JWT, Cloudinary
-
----
-
 ### [School API](https://github.com/MwirigiCodes/school-api)
 
 A backend API designed for managing school operations and educational institution data.
